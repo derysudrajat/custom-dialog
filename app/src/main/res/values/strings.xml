@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Custom Dialog</string>
+    <string name="contact_me">Contact me</string>
+    <string name="img_url_avatar"><![CDATA[https://avatars1.githubusercontent.com/u/32610660?s=460&u=9a72e192859faf4ed12e8d226e9faad4bcd87bd5&v=4]]></string>
+    <string name="img_url_ig">https://image.flaticon.com/icons/png/512/87/87390.png</string>
+    <string name="img_url_github">https://pngimg.com/uploads/github/github_PNG40.png</string>
+    <string name="img_url_medium">https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/211_Medium_logo_logos-512.png</string>
+    <string name="img_url_wa">https://www.freepnglogos.com/uploads/whatsapp-logo-light-green-png-0.png</string>
+    <string name="txt_ig">Instagram</string>
+    <string name="txt_github">GitHub</string>
+    <string name="txt_mdium">Medium</string>
+    <string name="txt_wa">Whatsapp</string>
+    <string name="url_ig">https://www.instagram.com/derysudrajat</string>
+    <string name="url_github">https://github.com/derysudrajat</string>
+    <string name="url_medium">https://medium.com/@dery.io</string>
+    <string name="url_wa">http://bit.ly/hi_dery</string>
+</resources>
